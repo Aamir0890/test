@@ -1,0 +1,5 @@
+{{#user}}
+Name: Aamir Arshad
+Skills: HTML, CSS, JS, Nodejs,Express,MySql,MongoDb,Sequelize,RabbitMq,React
+Email: arshadaamir09@gmail.com
+{{/user}}
